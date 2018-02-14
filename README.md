@@ -1,2 +1,2 @@
-# gvigner.github.io
-Notebook
+# Notebook
+Programming notes
